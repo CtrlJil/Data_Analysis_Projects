@@ -1,5 +1,7 @@
 # Data Analysis Portfolio
 
+![data analysis portfolio](https://github.com/CtrlJil/Images/blob/main/data_analysis_portfolio_dark.jfif)
+
 This repository contains a collection of my data analysis projects, demonstrating my skills in data cleaning, exploration, visualization, and modeling.
 
 ## Project Structure
