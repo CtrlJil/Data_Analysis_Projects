@@ -6,10 +6,9 @@ This repository contains a collection of my data analysis projects, demonstratin
 
 The projects are organized into folders, each representing a separate analysis or case study.
 
-* `Project_1_Sales_Analysis`: Analysis of sales data to identify trends and patterns.
-* `Project_2_Customer_Segmentation`: Customer segmentation using clustering algorithms to target specific customer groups.
-* `Project_3_Predictive_Modeling`: Development of a machine learning model to predict customer churn.
-* `Project_4_Web_Scraping_and_Analysis`: Web scraping data, and then performing analysis on the resulting datasets.
+* `AlexTheAnalyst Challenge`: A data analysis challenge organised by popular data expert/tutor Alex Freiberg
+* `end-to-end EDA with Excel`: Exploratory Data Analysis featuring data cleaning, data wrangling and visualization done in Excel.
+* `Webscraping`: Basic webscraping exercise.
 * * etc...
 
 ## Key Skills Demonstrated
@@ -46,7 +45,7 @@ To explore a specific project:
 
 Feel free to reach out to me if you have any questions or would like to discuss my work.
 
-* LinkedIn: [Your LinkedIn Profile URL]
-* Email: [Your Email Address]
+* [ LinkedIn](https://www.linkedin.com/in/jil-okonma)
+* [Email Me](mailto:jilokonma@gmail.com)
 
 Thank you for your interest!
